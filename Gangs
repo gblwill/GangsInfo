@@ -1,11 +1,12 @@
 GangsStorage: {
 
-GangName = "Nome",
-Owner = "ID",
-GroupId = Idgang,
-GangItens = { [ItenName = 10], [ItenName2 = 10] },
-PersoCloths = { [Camisa = Id], [Calca = Id] }, -- ou false
- GangColors:
+Birgula:
+ GangName = "Nome",
+  Owner = ID,
+   GroupId = Idgang,
+    GangItens = { [ItenName = 10], [ItenName2 = 10] },
+     PersoCloths = { [Camisa = Id], [Calca = Id] }, -- ou false
+      GangColors:
 
    [1] = { [Fundo(00,00,00)], [Contorno(00,00,00)] },
    [2] = { [Fundo(00,00,00)], [Contorno(00,00,00)] },
