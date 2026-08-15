@@ -52,7 +52,8 @@ GangsInfo = {
 			[3] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(170, 255, 255) },
 		},
 		GangItens = {
-			Kokusen = { MinRank = 1 },
+			Soco = { MinRank = 1 },
+			ChuteFogo = { MinRank = 1 },
 		}
 	};
 	
