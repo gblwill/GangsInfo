@@ -177,14 +177,14 @@ GangsInfo = {
 	};
 
 	HeiwaGang = {
-		GangName = "Heiwa 2º Generation",
+		GangName = "Heiwa Gang",
 		GroupID = 544839263,
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
-			[1] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
-			[2] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
-			[3] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[1] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(255, 81, 0) },
+			[2] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(1, 0.317647, 0), TextStrokeColor = Color3.fromRGB(255, 255, 0) },
 		},
 		GangItens = {
 			Soco = { MinRank = 1 },
@@ -591,14 +591,14 @@ GangsInfo = {
 	};
 
 	Onyx = {
-		GangName = "Onyx ⚫",
+		GangName = "Heiwa 2º Generation",
 		GroupID = 677981660,
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
-			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
-			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
-			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+			[1] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[3] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
 		},
 		GangItens = {
 			Susanoo = { MinRank = 1 },
