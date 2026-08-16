@@ -222,8 +222,8 @@ GangsInfo = {
 		}
 	};
 
-	["The Overlords"] = {
-		GangName = "The Overlords",
+	["Attack On Titan "] = {
+		GangName = "Attack On Titan ",
 		GroupID = 1002180539,
 		MinRank = 1,
 		Health = 1000,
