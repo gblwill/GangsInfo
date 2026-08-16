@@ -690,15 +690,11 @@ GangsInfo = {
 			[3] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,0) },
 		},
 		GangItens = {
-			BlueSusanoo = { MinRank = 1 },
+			Susanoo = { MinRank = 1 },
 			Raio = { MinRank = 1 },
 			DoubleJump = { MinRank = 1 },
-			CorteDaEspada = { MinRank = 1 },
 			HinokamiKagura = { MinRank = 1 },
-			RedRinnegan = { MinRank = 1 },
-			DemonSnap = { MinRank = 1 },
 			IceParadise = { MinRank = 1 },
-			BlackHole = { MinRank = 1 },
 		}
 	};
 
