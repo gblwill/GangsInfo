@@ -243,6 +243,7 @@ GangsInfo = {
 			ReaperSusanoo = { MinRank = 1 },
 			RaioFP = { MinRank = 1 },
 			Foice = { MinRank = 1 },
+			CrimsonSusanoo = { MinRank = 1 },
 		}
 	};
 
