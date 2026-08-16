@@ -240,6 +240,9 @@ GangsInfo = {
 			Raio = { MinRank = 1 },
 			["Corte Circular"] = { MinRank = 1 },
 			FAHH = { MinRank = 1 },
+			ReaperSusanoo = { MinRank = 1 },
+			RaioFPS = { MinRank = 1 },
+			Foice = { MinRank = 1 },
 		}
 	};
 
