@@ -698,7 +698,6 @@ GangsInfo = {
 			IceParadise = { MinRank = 1 },
 			Colateral = { MinRank = 1 },
 			Counter = { MinRank = 1 },
-			IceParadise = { MinRank = 1 },
 			ImpulsoSombrio = { MinRank = 1 },
 			CorteDaEspada = { MinRank = 1 },
 			Rinnegan = { MinRank = 1 },
