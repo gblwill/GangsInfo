@@ -19,7 +19,7 @@ GangsInfo = {
 			Raio_FP = { MinRank = 10 },
 			Counter = { MinRank = 10 },
 			CrimsonSusanoo = { MinRank = 10 },
-			EmpurraoDeVento = { MinRank = 10 },
+			SlayerMark = { MinRank = 10 },
 			
 		}
 	};
