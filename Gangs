@@ -45,7 +45,7 @@ GangsInfo = {
 		GangName = "Família Lorde god king",
 		GroupID = 958285938,
 		MinRank = 2,
-		Health = 1500,
+		Health = 2000,
 		Colors = {
 			[1] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(170, 255, 255) },
 			[2] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(170, 255, 255) },
@@ -53,7 +53,8 @@ GangsInfo = {
 		},
 		GangItens = {
 			Soco = { MinRank = 1 },
-			ChuteFogo = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			EletricDash = { MinRank = 1 },
 		}
 	};
 	
@@ -744,7 +745,7 @@ GangsInfo = {
 
 	Thepu = {
 		GangName = "The Punhetas",
-		GroupID = 0,
+		GroupID = 34271955,
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
