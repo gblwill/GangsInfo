@@ -372,6 +372,7 @@ GangsInfo = {
 		GangItens = {
 			Susanoo = { MinRank = 1 },
 			Kokusen = { MinRank = 1 },
+			RaioFP = { MinRank = 1 },
 			Chute = { MinRank = 1 },
 			Rasteira = { MinRank = 1 },
 		}
