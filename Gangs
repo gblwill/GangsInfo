@@ -88,18 +88,18 @@ GangsInfo = {
 		}
 	};
 	
-	Berserk = {
-		GangName = "Berserk",
+	Valhalla Full = {
+		GangName = "Valhalla Full",
 		GroupID = 5059843,
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
-			[1] = { TextColor = Color3.new(0.192157, 0.0352941, 0.105882), TextStrokeColor = Color3.fromRGB(49, 9, 27) },
-			[2] = { TextColor = Color3.new(0.192157, 0.0352941, 0.105882), TextStrokeColor = Color3.fromRGB(49, 9, 27) },
-			[3] = { TextColor = Color3.new(0.192157, 0.0352941, 0.105882), TextStrokeColor = Color3.fromRGB(49, 9, 27) },
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
 		},
 		GangItens = {
-			Soco = { MinRank = 1 },
+			SocoEletrico = { MinRank = 1 },
 		}
 	};
 	
