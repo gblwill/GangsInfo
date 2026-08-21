@@ -88,7 +88,7 @@ GangsInfo = {
 		}
 	};
 	
-	Valhalla Full = {
+	ValhallaFull = {
 		GangName = "Valhalla Full",
 		GroupID = 5059843,
 		MinRank = 1,
