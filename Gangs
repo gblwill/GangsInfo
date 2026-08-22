@@ -55,6 +55,7 @@ GangsInfo = {
 			Soco = { MinRank = 1 },
 			Kokusen = { MinRank = 1 },
 			EletricDash = { MinRank = 1 },
+			Susanoo = { MinRank = 1 },
 		}
 	};
 	
