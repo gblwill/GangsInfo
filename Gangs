@@ -89,8 +89,8 @@ GangsInfo = {
 		}
 	};
 	
-	ValhallaFull = {
-		GangName = "Valhalla Full",
+	TCB = {
+		GangName = "Tropa do Capitão Bolsonaro",
 		GroupID = 5059843,
 		MinRank = 1,
 		Health = 1000,
