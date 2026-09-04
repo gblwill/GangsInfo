@@ -20,6 +20,7 @@ GangsInfo = {
 			Counter = { MinRank = 10 },
 			CrimsonSusanoo = { MinRank = 10 },
 			SlayerMark = { MinRank = 10 },
+			Kirin = { MinRank = 10 },
 			
 		}
 	};
