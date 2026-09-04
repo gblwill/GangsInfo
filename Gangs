@@ -15,7 +15,7 @@ GangsInfo = {
 			DemonBash = { MinRank = 10 },
 			PisaoBirgulas = { MinRank = 10 },
 			ImpulsoSombrio = { MinRank = 10 },
-			LocalScript = { MinRank = 10 },
+			CorteDoSol = { MinRank = 10 },
 			Raio_FP = { MinRank = 10 },
 			Counter = { MinRank = 10 },
 			CrimsonSusanoo = { MinRank = 10 },
@@ -186,7 +186,7 @@ GangsInfo = {
 		},
 		GangItens = {
 			Susanoo = { MinRank = 1 },
-			LocalScript = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
 			YinYang = { MinRank = 1 },
 			Foice = { MinRank = 1 },
 			Raio = { MinRank = 1 },
@@ -209,7 +209,7 @@ GangsInfo = {
 			Susanoo = { MinRank = 1 },
 			Rinnegan = { MinRank = 1 },
 			Rasteira = { MinRank = 1 },
-			LocalScript = { MinRank = 1 },	
+			CorteDoSol = { MinRank = 1 },	
 			YinYang = { MinRank = 1 },
 			FAHH = { MinRank = 1 },
 		}
@@ -232,7 +232,7 @@ GangsInfo = {
 			Raio = { MinRank = 1 },
 			IceParadise = { MinRank = 1 },
 			YinYang = { MinRank = 1 },
-			LocalScript = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
 			Colateral = { MinRank = 1},
 			MundoTransparente = { MinRank = 1 },
 			HinokaniKagura = { MinRank = 1 },
@@ -251,7 +251,7 @@ GangsInfo = {
 		},
 		GangItens = {
 			Colateral = { MinRank = 1 },
-			LocalScript = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
 			Susanoo = { MinRank = 1 },
 			Kokusen = { MinRank = 1 },
 			Raio = { MinRank = 1 },
@@ -277,7 +277,7 @@ GangsInfo = {
 		GangItens = {
 			Pisao = { MinRank = 255 },
 			DemonBash = { MinRank = 255 },
-			LocalScript = { MinRank = 1},
+			CorteDoSol = { MinRank = 1},
 			RedRinnegan = { MinRank = 1},
 			MundoTransparente = { MinRank = 1},
 			Kunai = { MinRank = 1},
@@ -517,7 +517,7 @@ GangsInfo = {
 			["Corte Circular"] = { MinRank = 1 },
 			IceParadise = { MinRank = 1 },
 			FAHH = { MinRank = 1 },
-			LocalScript = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
 			HinokaniKagura = { MinRank = 1 },
 			Susanoo = { MinRank = 1 },
 		}
@@ -553,7 +553,7 @@ GangsInfo = {
 			Susanoo = { MinRank = 1 },
 			Raio = { MinRank = 1 },
 			Kokusen = { MinRank = 1 },
-			LocalScript = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
 			Colateral = { MinRank = 1 },
 			YinYang = { MinRank = 1 },
 		}
@@ -591,7 +591,7 @@ GangsInfo = {
 			Susanoo = { MinRank = 1 },
 			Colateral = { MinRank = 1 },
 			Kokusen = { MinRank = 1 },
-			LocalScript = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
 			IceParadise = { MinRank = 1 },
 			
 		}
@@ -678,7 +678,7 @@ GangsInfo = {
 			Susanoo = { MinRank = 1 },
 			Raio = { MinRank = 1 },
 			Kokusen = { MinRank = 1 },
-			LocalScript = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
 		}
 	};
 	
