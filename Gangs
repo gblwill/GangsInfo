@@ -378,6 +378,7 @@ GangsInfo = {
 			Chute = { MinRank = 1 },
 			Rasteira = { MinRank = 1 },
             Kunai = { MinRank = 1 },
+            ["Corte Circular"] = { MinRank = 1 },
 		}
 	};
 	
