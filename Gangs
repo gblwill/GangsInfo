@@ -21,6 +21,7 @@ GangsInfo = {
 			CrimsonSusanoo = { MinRank = 10 },
 			SlayerMark = { MinRank = 10 },
 			Kirin = { MinRank = 10 },
+			FP_Colateral = { MinRank = 255 },
 			
 		}
 	};
@@ -279,7 +280,7 @@ GangsInfo = {
 			Pisao = { MinRank = 255 },
 			DemonBash = { MinRank = 255 },
 			CorteDoSol = { MinRank = 1},
-			RedRinnegan = { MinRank = 1},
+			ShinraTensei = { MinRank = 1},
 			MundoTransparente = { MinRank = 1},
 			Kunai = { MinRank = 1},
 			Colateral = { MinRank = 1},
@@ -378,6 +379,7 @@ GangsInfo = {
 			Chute = { MinRank = 1 },
 			Rasteira = { MinRank = 1 },
             Kunai = { MinRank = 1 },
+            Colateral = { MinRank = 1 },
             ["Corte Circular"] = { MinRank = 1 },
 		}
 	};
