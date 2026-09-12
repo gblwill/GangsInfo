@@ -283,7 +283,7 @@ GangsInfo = {
 			ShinraTensei = { MinRank = 1},
 			MundoTransparente = { MinRank = 1},
 			Kunai = { MinRank = 1},
-			Colateral = { MinRank = 1},
+			YingColateral = { MinRank = 1},
 			["Corte Circular"] = { MinRank = 1},
 			Bolt = { MinRank = 1},
 			Counter = { MinRank = 1},
