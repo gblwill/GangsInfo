@@ -293,7 +293,7 @@ GangsInfo = {
 
 	Akatsuki = {
 		GangName = "Akatsuki The Gang",
-		GroupID = 33440819,
+		GroupID = 0,
 		MinRank = 1,
 		Health = 10000,
 		Colors = {
