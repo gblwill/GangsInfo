@@ -49,7 +49,7 @@ GangsInfo = {
 		MinRank = 5,
 		Health = 3000,
 		Colors = {
-			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255 },
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255) },
 			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255) },
 			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255) },
 		},
