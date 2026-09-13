@@ -46,7 +46,7 @@ GangsInfo = {
 	SingularityOrder = {
 		GangName = "Singularity Order",
 		GroupID = 33345163,
-		MinRank = 1,
+		MinRank = 5,
 		Health = 3000,
 		Colors = {
 			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255 },
@@ -54,17 +54,17 @@ GangsInfo = {
 			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255) },
 		},
 		GangItens = {
-			CorteDoSol = { MinRank = 1},
-			ShinraTensei = { MinRank = 1},
-			MundoTransparente = { MinRank = 1},
-			Kunai = { MinRank = 1},
-			YingColateral = { MinRank = 1},
-			["Corte Circular"] = { MinRank = 1},
-			Bolt = { MinRank = 1},
-			Counter = { MinRank = 1},
-			BloodIce = { MinRank = 1},
-			BlackHole = { MinRank = 1},
-			Susanoo = { MinRank = 1},
+			CorteDoSol = { MinRank = 5},
+			ShinraTensei = { MinRank = 5},
+			MundoTransparente = { MinRank = 5},
+			Kunai = { MinRank = 5},
+			YingColateral = { MinRank = 5},
+			["Corte Circular"] = { MinRank = 5},
+			Bolt = { MinRank = 5},
+			Counter = { MinRank = 5},
+			BloodIce = { MinRank = 5},
+			BlackHole = { MinRank = 5},
+			Susanoo = { MinRank = 5},
 		}
 	};
 	
