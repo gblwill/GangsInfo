@@ -42,6 +42,31 @@ GangsInfo = {
 			Kokusen = { MinRank = 1 },
 		}
 	};
+
+	SingularityOrder = {
+		GangName = "Singularity Order",
+		GroupID = 33345163,
+		MinRank = 1,
+		Health = 3000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255 },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255) },
+		},
+		GangItens = {
+			CorteDoSol = { MinRank = 1},
+			ShinraTensei = { MinRank = 1},
+			MundoTransparente = { MinRank = 1},
+			Kunai = { MinRank = 1},
+			YingColateral = { MinRank = 1},
+			["Corte Circular"] = { MinRank = 1},
+			Bolt = { MinRank = 1},
+			Counter = { MinRank = 1},
+			BloodIce = { MinRank = 1},
+			BlackHole = { MinRank = 1},
+			Susanoo = { MinRank = 1},
+		}
+	};
 	
 	FamiliaLorde = {
 		GangName = "Família Lorde god king",
@@ -702,6 +727,7 @@ GangsInfo = {
 			DoubleJump = { MinRank = 1 },
 			HinokamiKagura = { MinRank = 1 },
 			IceParadise = { MinRank = 1 },
+			YingColateral = { MinRank = 1 },
 			Colateral = { MinRank = 1 },
 			Counter = { MinRank = 1 },
 			ImpulsoSombrio = { MinRank = 1 },
