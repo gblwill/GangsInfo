@@ -579,7 +579,7 @@ GangsInfo = {
 
 	Luas = {
 		GangName = "Luas Superiores",
-		GroupID = 15177809,
+		GroupID = 35489912,
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
