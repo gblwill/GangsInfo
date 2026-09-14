@@ -62,7 +62,7 @@ GangsInfo = {
 			Bolt = { MinRank = 5},
 			Counter = { MinRank = 5},
 			BloodIce = { MinRank = 5},
-			BlackHole = { MinRank = 5},
+			BlackHole = { MinRank = 242},
 			Susanoo = { MinRank = 5},
 		}
 	};
