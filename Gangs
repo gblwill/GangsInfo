@@ -56,8 +56,7 @@ GangsInfo = {
 		GangItens = {
 			CorteDoSol = { MinRank = 5},
 			ShinraTensei = { MinRank = 5},
-			MundoTransparente = { MinRank = 5},
-			Kunai = { MinRank = 5},
+			ImpulsoSombrio = { MinRank = 5},
 			YingColateral = { MinRank = 5},
 			["Corte Circular"] = { MinRank = 5},
 			Bolt = { MinRank = 5},
