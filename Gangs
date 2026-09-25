@@ -375,9 +375,10 @@ GangsInfo = {
 			RaioFP = { MinRank = 1 },
 			Chute = { MinRank = 1 },
 			Rasteira = { MinRank = 1 },
-            Kunai = { MinRank = 1 },
-            Colateral = { MinRank = 1 },
-            ["Corte Circular"] = { MinRank = 1 },
+   Kunai = { MinRank = 1 },
+    Colateral = { MinRank = 1 },
+   ["Corte Circular"] = { MinRank = 1 },
+    Counter = { MinRank = 1 },
 		}
 	};
 	
