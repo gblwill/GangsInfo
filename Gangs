@@ -500,15 +500,15 @@ GangsInfo = {
 		}
 	};
 	
-	["Legion of Shadows"] = {
-		GangName = "Legion of Shadows",
+	["Touros Negros "] = {
+		GangName = "Touros Negros ",
 		GroupID = 35827043,
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
-			[1] = { TextColor = Color3.fromRGB(255, 255, 255), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
-			[2] = { TextColor = Color3.fromRGB(255, 255, 255), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
-			[3] = { TextColor = Color3.fromRGB(255, 255, 255), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[1] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(204, 204, 0) },
+			[2] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(204, 204, 0) },
+			[3] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(204, 204, 0) },
 		},
 		GangItens = {
 			SusanooEspada = { MinRank = 1 },
