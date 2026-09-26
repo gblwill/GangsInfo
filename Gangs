@@ -265,8 +265,8 @@ GangsInfo = {
 		}
 	};
 
-	["Attack On Titan "] = {
-		GangName = "Attack On Titan ",
+	["Luas Inferiores"] = {
+		GangName = "Luas Inferiores",
 		GroupID = 1002180539,
 		MinRank = 1,
 		Health = 1000,
