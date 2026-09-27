@@ -1,0 +1,790 @@
+GangsInfo = {
+
+	Birgula = {
+		GangName = "Birgulinhas",
+		GroupID = 8715649,
+		MinRank = 10,
+		CustomRace = {"Zenith Curse"},
+		Health = 100000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+		},
+		GangItens = {
+			ShinraTensei = { MinRank = 10 },
+			DemonBash = { MinRank = 10 },
+			PisaoBirgulas = { MinRank = 10 },
+			ImpulsoSombrio = { MinRank = 10 },
+			CorteDoSol = { MinRank = 10 },
+			Raio_FP = { MinRank = 10 },
+			Kirin = { MinRank = 10},
+			Counter = { MinRank = 10 },
+			CrimsonSusanoo = { MinRank = 10 },
+			SlayerMark = { MinRank = 10 },
+			FP_Colateral = { MinRank = 255 },
+			
+		}
+	};
+	
+	KingCB = {
+		GangName = "KingCB",
+		GroupID = 34072792,
+		MinRank = 2,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+
+	SingularityOrder = {
+		GangName = "Singularity Order",
+		GroupID = 33345163,
+		CustomRace = {"Zenith Curse"},
+		MinRank = 5,
+		Health = 3000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(246, 192, 255) },
+		},
+		GangItens = {
+			CorteDoSol = { MinRank = 5},
+			ShinraTensei = { MinRank = 5},
+			ImpulsoSombrio = { MinRank = 5},
+			YingColateral = { MinRank = 5},
+			["Corte Circular"] = { MinRank = 5},
+			Bolt = { MinRank = 5},
+			Counter = { MinRank = 5},
+			BloodIce = { MinRank = 5},
+			BlackHole = { MinRank = 242},
+			Susanoo = { MinRank = 5},
+		}
+	};
+	
+	FamiliaLorde = {
+		GangName = "Família Lorde god king",
+		GroupID = 958285938,
+		MinRank = 2,
+		Health = 2000,
+		Colors = {
+			[1] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(170, 255, 255) },
+			[2] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(170, 255, 255) },
+			[3] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(170, 255, 255) },
+		},
+		GangItens = {
+			Soco = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			EletricDash = { MinRank = 1 },
+			Susanoo = { MinRank = 1 },
+		}
+	};
+	
+	ZeninnoHay = {
+		GangName = "Zenin no Hay",
+		GroupID = 214330937,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0.192157, 0.192157, 0.192157), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(0.192157, 0.192157, 0.192157), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(0.192157, 0.192157, 0.192157), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Soco = { MinRank = 1 },
+		}
+	};
+
+	NoCrak = {
+		GangName = "NoCrak",
+		GroupID = 35974806,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 0) },
+			[2] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 0) },
+			[3] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 0) },
+		},
+		GangItens = {
+			Chute = { MinRank = 1 },
+		}
+	};
+	
+	TCB = {
+		GangName = "Tropa do Capitão Bolsonaro",
+		GroupID = 5059843,
+		CustomRace = {"Ultra Instinct"},
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			SocoEletrico = { MinRank = 1 },
+		}
+	};
+	
+	Gulosos = {
+		GangName = "Gulosos",
+		GroupID = 34894857,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[3] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+		},
+		GangItens = {
+			Soco = { MinRank = 1 },
+			RaioFP = { MinRank = 1 },
+		}
+	};
+
+	YamaGuchi = {
+		GangName = "還 Yamaguchi Gumi 米",
+		GroupID = 274965283,
+		MinRank = 1,
+		Health = 2000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 127) },
+			[2] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 127) },
+			[3] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 127) },
+		},
+		GangItens = {
+			EletricDash = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			SusanooEspada = { MinRank = 1 },
+		}
+	};
+	
+	ShadowEmpire = {
+		GangName = "Shadow Empire",
+		GroupID = 274965283,
+		MinRank = 1,
+		Health = 2000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 127) },
+			[2] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 127) },
+			[3] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 127) },
+		},
+		GangItens = {
+			EletricDash = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			SusanooEspada = { MinRank = 1 },
+		}
+	};
+
+	Gostosas = {
+		GangName = "As Gostosas",
+		GroupID = 630161876,
+		MinRank = 1,
+		Health = 2500,
+		Colors = {
+			[1] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(255, 0, 255) },
+			[2] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(255, 0, 255) },
+			[3] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(255, 0, 255) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			EletricDash = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			Colateral = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			YinYang = { MinRank = 1 },
+		}
+	};
+	
+	["Saga Gang"] = {
+		GangName = "Saaaaaaaasssssssssssssssss",
+		GroupID = 944451740,
+		MinRank = 5,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 18, 13) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 18, 13) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
+			YinYang = { MinRank = 1 },
+			Foice = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+
+	HeiwaGang = {
+		GangName = "Heiwa Gang",
+		GroupID = 544839263,
+		CustomRace = {"Mahoraga", "Carecas"},
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(255, 81, 0) },
+			[2] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(1, 0.317647, 0), TextStrokeColor = Color3.fromRGB(255, 255, 0) },
+		},
+		GangItens = {
+			Soco = { MinRank = 1 },
+			Susanoo = { MinRank = 1 },
+			Rinnegan = { MinRank = 1 },
+			Rasteira = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },	
+			YinYang = { MinRank = 1 },
+			FAHH = { MinRank = 1 },
+		}
+	};
+
+	EternalReigh = {
+		GangName = "Eternal Reigh",
+		GroupID = 35176476,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 170, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 170, 255) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 170, 255) },
+		},
+		GangItens = {
+			Soco = { MinRank = 1 },
+			ChuteFogo = { MinRank = 1 },
+			SusanooEspada = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			IceParadise = { MinRank = 1 },
+			YinYang = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
+			Colateral = { MinRank = 1},
+			MundoTransparente = { MinRank = 1 },
+			HinokaniKagura = { MinRank = 1 },
+		}
+	};
+
+	["Luas Inferiores"] = {
+		GangName = "Luas Inferiores",
+		GroupID = 1002180539,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0.415686, 0, 0), TextStrokeColor = Color3.fromRGB(139, 0, 0) },
+			[2] = { TextColor = Color3.new(0.415686, 0, 0), TextStrokeColor = Color3.fromRGB(139, 0, 0) },
+			[3] = { TextColor = Color3.new(0.415686, 0, 0), TextStrokeColor = Color3.fromRGB(139, 0, 0) },
+		},
+		GangItens = {
+			Colateral = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
+			Susanoo = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			["Corte Circular"] = { MinRank = 1 },
+			FAHH = { MinRank = 1 },
+			ReaperSusanoo = { MinRank = 1 },
+			RaioFP = { MinRank = 1 },
+			Foice = { MinRank = 1 },
+			CrimsonSusanoo = { MinRank = 1 },
+		}
+	};
+
+	Yacuza = {
+		GangName = "Yacuza Dragão guerreiro",
+		GroupID = 1090708638,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0.333333, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+			[2] = { TextColor = Color3.new(0.333333, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+			[3] = { TextColor = Color3.new(0.333333, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+	
+	Ghouls = {
+		GangName = "Ghoul's",
+		GroupID = 496793696,
+		MinRank = 1,
+		Health = 2000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0.333333, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 127) },
+			[2] = { TextColor = Color3.new(0.333333, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 127) },
+			[3] = { TextColor = Color3.new(0.333333, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 127) },
+		},
+		GangItens = {
+			Kokusen = { MinRank = 1 },
+			EletricDash = { MinRank = 1 },
+			Rasteira = { MinRank = 1 },
+		}
+	};
+
+	SoloCB = {
+		GangName = "SolonoCB",
+		GroupID = 137075245,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(1, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(1, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(1, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			["Corte Circular"] = { MinRank = 1 },
+		}
+	};
+
+	Bleach = {
+		GangName = "Bleach",
+		GroupID = 1082209753,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+
+	BleachofShinigamis = {
+		GangName = "Bleach of Shinigami's",
+		GroupID = 1083945842,
+		CustomRace = {"Zenith Curse"},
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0.992157, 0.133333, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(0.588235, 0.094118, 0.835294), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			RaioFP = { MinRank = 1 },
+			Chute = { MinRank = 1 },
+			Rasteira = { MinRank = 1 },
+            Kunai = { MinRank = 1 },
+			Colateral = { MinRank = 1 },
+			["Corte Circular"] = { MinRank = 1 },
+			Counter = { MinRank = 1 },
+		}
+	};
+	
+	["Eternity Order"] = {
+		GangName = "Eternity Order",
+		GroupID = 872983737,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 170, 255) },
+			[2] = { TextColor = Color3.new(255, 170, 255), TextStrokeColor = Color3.fromRGB(255, 170, 255) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 170, 255) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+
+	PecadosCapitais = {
+		GangName = "The Seven Deadly Sins",
+		GroupID = 781694957,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[3] = { TextColor = Color3.new(1, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+
+	BigBang = {
+		GangName = "Big Bang",
+		GroupID = 36033101,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 0, 0) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 0, 0) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+	
+	["Shadow Empire"] = {
+		GangName = "Shadow Empire",
+		GroupID = 267081626,
+		MinRank = 1,
+		Health = 2000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0.223529, 0.223529, 0.223529), TextStrokeColor = Color3.fromRGB(53, 53, 53) },
+			[2] = { TextColor = Color3.new(0.223529, 0.223529, 0.223529), TextStrokeColor = Color3.fromRGB(53, 53, 53) },
+			[3] = { TextColor = Color3.new(0.223529, 0.223529, 0.223529), TextStrokeColor = Color3.fromRGB(53, 53, 53) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+	
+	TheCursed = {
+		GangName = "The Cursed",
+		GroupID = 35196935,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0.333333, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(0.333333, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(0.333333, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+	
+	LosSHINIGAMES = {
+		GangName = "Los SHINIGAMES",
+		GroupID = 33465144,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(0, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+	
+	CobraKai = {
+		GangName = " 覆 Cobra Kai 蓋",
+		GroupID = 117984123,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,255) },
+			[2] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,255) },
+			[3] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(79, 79, 79) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Rinnegan = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+	
+	["Touros Negros "] = {
+		GangName = "Touros Negros ",
+		GroupID = 35827043,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(204, 204, 0) },
+			[2] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(204, 204, 0) },
+			[3] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(204, 204, 0) },
+		},
+		GangItens = {
+			SusanooEspada = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			MundoTransparente = { MinRank = 1 },
+			RaioFP = { MinRank = 1 },
+			["Corte Circular"] = { MinRank = 1 },
+			IceParadise = { MinRank = 1 },
+			FAHH = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
+			HinokaniKagura = { MinRank = 1 },
+			Susanoo = { MinRank = 1 },
+            BullThrow = { MinRank = 1 },
+		}
+	};
+	Berserkers = {
+		GangName = "Berserkers 〆",
+		GroupID = 34882100,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 0, 0) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 0, 0) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+	
+	Renegados = {
+		GangName = "Os Renegados",
+		GroupID = 33765266,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,255) },
+			[2] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,255) },
+			[3] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
+			Colateral = { MinRank = 1 },
+			YinYang = { MinRank = 1 },
+		}
+	};
+
+	ShadowOfHere = {
+		GangName = "Shadow of here",
+		GroupID = 35713750,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(1, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0.666667, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(1, 0, 0), TextStrokeColor = Color3.fromRGB(255, 0, 255) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+
+	Luas = {
+		GangName = "Luas Superiores",
+		GroupID = 35489912,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+		},
+		GangItens = {
+			SusanooEspada = { MinRank = 1 },
+			Susanoo = { MinRank = 1 },
+			Colateral = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
+			IceParadise = { MinRank = 1 },
+			
+		}
+	};
+
+	Onyx = {
+		GangName = "Heiwa 2º Generation",
+		GroupID = 677981660,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[3] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+	
+	["Thunder Of Darkness"] = {
+		GangName = "Thunder Of Darkness",
+		GroupID = 35657765,
+		MinRank = 1,
+		Health = 2000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0.956863, 1, 0.117647), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(0.956863, 1, 0.117647), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(0.956863, 1, 0.117647), TextStrokeColor = Color3.fromRGB(0, 0, 0) },	
+		},
+		GangItens = {
+			Kokusen = { MinRank = 1 },
+			EletricDash = { MinRank = 1 },
+		}
+	};
+
+	Val = {
+		GangName = "فالاهالا",
+			GroupID = 175686310,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+
+	Arcanjos = {
+		GangName = "Arcanjo's",
+		GroupID = 35808650,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+		}
+	};
+
+	Worlds = {
+		GangName = "World's governament",
+		GroupID = 11350144,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 1), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 1), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[3] = { TextColor = Color3.new(0, 0, 1), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
+		}
+	};
+	
+	Kanto = {
+		GangName = "Tokyo Manji Gang",
+		GroupID = 33805462,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,255) },
+			[2] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,255) },
+			[3] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,0) },
+		},
+		GangItens = {
+			Susanoo = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			DoubleJump = { MinRank = 1 },
+			HinokamiKagura = { MinRank = 1 },
+			IceParadise = { MinRank = 1 },
+			YingColateral = { MinRank = 1 },
+			Colateral = { MinRank = 1 },
+			Counter = { MinRank = 1 },
+			ImpulsoSombrio = { MinRank = 1 },
+			CorteDaEspada = { MinRank = 1 },
+			Rinnegan = { MinRank = 1 },
+		}
+	};
+
+	NoFrak = {
+		GangName = "NoFrak",
+		GroupID = 468776484,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.fromRGB(85, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[2] = { TextColor = Color3.fromRGB(85, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.fromRGB(85, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			Susanoo = { MinRank = 1 },
+			Rasteira = { MinRank = 1 },
+			ChuteFogo = { MinRank = 1 },
+		}
+	};
+
+	Otsoksukis = {
+		GangName = "Ōtsoksukis",
+		GroupID = 730328705,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.fromRGB(255, 255, 255), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.fromRGB(255, 255, 255), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[3] = { TextColor = Color3.fromRGB(255, 255, 255), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+		},
+		GangItens = {
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			Susanoo = { MinRank = 1 },
+			ReaperSusanoo = { MinRank = 1 },
+		}
+	};
+
+
+	Thepu = {
+		GangName = "The Punhetas",
+		GroupID = 34271955,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,255) },
+			[2] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+			[3] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+		},
+		GangItens = {
+			YinYang = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			Susanoo = { MinRank = 1 }
+		}
+	};
+	
+	AngelsSyndicate = {
+		GangName = "這 The Angels Syndicate 和",
+		GroupID = 34540461,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(1, 0, 0), TextStrokeColor = Color3.fromRGB(255, 0, 0) },
+			[2] = { TextColor = Color3.new(0, 0, 1), TextStrokeColor = Color3.fromRGB(0, 0, 255) },
+			[3] = { TextColor = Color3.new(1, 1, 0), TextStrokeColor = Color3.fromRGB(255, 255, 0) },
+		},
+		GangItens = {
+			YinYang = { MinRank = 1 },
+			Raio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 }
+		}
+	}
+}
