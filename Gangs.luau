@@ -86,6 +86,28 @@ GangsInfo = {
 			Susanoo = { MinRank = 1 },
 		}
 	};
+
+		NSorroma = {
+		GangName = "NSorroma",
+		GroupID = 775009161,
+		MinRank = 2,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(255, 250, 249), TextStrokeColor = Color3.fromRGB(232, 165, 234) },
+			[2] = { TextColor = Color3.new(255, 250, 249), TextStrokeColor = Color3.fromRGB(232, 165, 234) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(244, 255, 128) },
+		},
+		GangItens = {
+			ChuvaDeMeteoros = { MinRank = 1 },
+			ImpulsoSombrio = { MinRank = 1 },
+			Rinnegan = { MinRank = 1 },
+			YingColateral = { MinRank = 1 },
+			CorteDaEspada = { MinRank = 1 },
+			BlueSusanoo = { MinRank = 1 },
+			["Corte Circular"] = { MinRank = 1 },
+
+		}
+	};
 	
 	ZeninnoHay = {
 		GangName = "Zenin no Hay",
