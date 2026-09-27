@@ -271,9 +271,9 @@ GangsInfo = {
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
-			[1] = { TextColor = Color3.new(139, 0, 0), TextStrokeColor = Color3.fromRGB(139, 0, 0) },
-			[2] = { TextColor = Color3.new(139, 0, 0), TextStrokeColor = Color3.fromRGB(139, 0, 0) },
-			[3] = { TextColor = Color3.new(139, 0, 0), TextStrokeColor = Color3.fromRGB(139, 0, 0) },
+			[1] = { TextColor = Color3.new(0.415686, 0, 0), TextStrokeColor = Color3.fromRGB(139, 0, 0) },
+			[2] = { TextColor = Color3.new(0.415686, 0, 0), TextStrokeColor = Color3.fromRGB(139, 0, 0) },
+			[3] = { TextColor = Color3.new(0.415686, 0, 0), TextStrokeColor = Color3.fromRGB(139, 0, 0) },
 		},
 		GangItens = {
 			Colateral = { MinRank = 1 },
