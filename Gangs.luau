@@ -4,7 +4,7 @@ GangsInfo = {
 		GangName = "Birgulinhas",
 		GroupID = 8715649,
 		MinRank = 10,
-		CustomRace = {"Carecas"},
+		CustomRace = {"Zenith Curse"},
 		Health = 100000,
 		Colors = {
 			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
