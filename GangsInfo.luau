@@ -46,6 +46,7 @@ GangsInfo = {
 	NSorroma = {
 		GangName = "NSorroma",
 		GroupID = 775009161,
+		CustomRace = {"Hidan"},
 		MinRank = 1,
 		Health = 5000,
 		Colors = {
