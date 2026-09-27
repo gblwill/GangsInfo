@@ -43,11 +43,11 @@ GangsInfo = {
 		}
 	};
 
-		NSorroma = {
+	NSorroma = {
 		GangName = "NSorroma",
 		GroupID = 775009161,
-		MinRank = 2,
-		Health = 1000,
+		MinRank = 1,
+		Health = 5000,
 		Colors = {
 			[1] = { TextColor = Color3.new(255, 250, 249), TextStrokeColor = Color3.fromRGB(232, 165, 234) },
 			[2] = { TextColor = Color3.new(255, 250, 249), TextStrokeColor = Color3.fromRGB(232, 165, 234) },
