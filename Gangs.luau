@@ -17,10 +17,10 @@ GangsInfo = {
 			ImpulsoSombrio = { MinRank = 10 },
 			CorteDoSol = { MinRank = 10 },
 			Raio_FP = { MinRank = 10 },
+			Kirin = { MinRank = 10},
 			Counter = { MinRank = 10 },
 			CrimsonSusanoo = { MinRank = 10 },
 			SlayerMark = { MinRank = 10 },
-			Kirin = { MinRank = 10 },
 			FP_Colateral = { MinRank = 255 },
 			
 		}
