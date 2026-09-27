@@ -90,11 +90,11 @@ GangsInfo = {
 		NSorroma = {
 		GangName = "NSorroma",
 		GroupID = 775009161,
-		MinRank = 2,
+		MinRank = 1,
 		Health = 1000,
 		Colors = {
-			[1] = { TextColor = Color3.new(255, 250, 249), TextStrokeColor = Color3.fromRGB(232, 165, 234) },
-			[2] = { TextColor = Color3.new(255, 250, 249), TextStrokeColor = Color3.fromRGB(232, 165, 234) },
+			[1] = { TextColor = Color3.fromRGB(255, 250, 249), TextStrokeColor = Color3.fromRGB(232, 165, 234) },
+			[2] = { TextColor = Color3.fromRGB(255, 250, 249), TextStrokeColor = Color3.fromRGB(232, 165, 234) },
 			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(244, 255, 128) },
 		},
 		GangItens = {
