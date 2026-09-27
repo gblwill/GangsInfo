@@ -522,6 +522,7 @@ GangsInfo = {
 			CorteDoSol = { MinRank = 1 },
 			HinokaniKagura = { MinRank = 1 },
 			Susanoo = { MinRank = 1 },
+            BullThrow = { MinRank = 1 },
 		}
 	};
 	Berserkers = {
