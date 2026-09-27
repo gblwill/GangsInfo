@@ -363,15 +363,16 @@ GangsInfo = {
 		}
 	};
 
-	ShadowDemons = {
-		GangName = "Shadow Demons",
+	BleachofShinigamis = {
+		GangName = "Bleach of Shinigami's",
 		GroupID = 1083945842,
+		CustomRace = {"Zenith Curse"},
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
-			[1] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
-			[2] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
-			[3] = { TextColor = Color3.new(0.333333, 0, 0.498039), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0.992157, 0.133333, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[3] = { TextColor = Color3.new(0.588235, 0.094118, 0.835294), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
 		},
 		GangItens = {
 			Susanoo = { MinRank = 1 },
@@ -379,10 +380,10 @@ GangsInfo = {
 			RaioFP = { MinRank = 1 },
 			Chute = { MinRank = 1 },
 			Rasteira = { MinRank = 1 },
-   Kunai = { MinRank = 1 },
-    Colateral = { MinRank = 1 },
-   ["Corte Circular"] = { MinRank = 1 },
-    Counter = { MinRank = 1 },
+            Kunai = { MinRank = 1 },
+			Colateral = { MinRank = 1 },
+			["Corte Circular"] = { MinRank = 1 },
+			Counter = { MinRank = 1 },
 		}
 	};
 	
