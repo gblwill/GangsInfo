@@ -12,7 +12,7 @@ GangsInfo = {
 			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
 		},
 		GangItens = {
-			ShinraTensei = { MinRank = 10 },
+			RedRinnegan = { MinRank = 10 },
 			DemonBash = { MinRank = 10 },
 			PisaoBirgulas = { MinRank = 10 },
 			ImpulsoSombrio = { MinRank = 10 },
