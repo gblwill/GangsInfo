@@ -106,6 +106,7 @@ GangsInfo = {
 			CorteDaEspada = { MinRank = 1 },
 			Counter = { MinRank = 1 },
 			["Corte Circular"] = { MinRank = 1 },
+			StarStruck = { MinRank = 1 },
 
 		}
 	};
