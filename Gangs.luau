@@ -107,6 +107,7 @@ GangsInfo = {
 			Counter = { MinRank = 1 },
 			["Corte Circular"] = { MinRank = 1 },
 			StarStruck = { MinRank = 1 },
+			["Ēḏen"] = { MinRank = 1 },
 
 		}
 	};
