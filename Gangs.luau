@@ -104,7 +104,7 @@ GangsInfo = {
 			Rinnegan = { MinRank = 1 },
 			YingColateral = { MinRank = 1 },
 			CorteDaEspada = { MinRank = 1 },
-			BlueSusanoo = { MinRank = 1 },
+			Counter = { MinRank = 1 },
 			["Corte Circular"] = { MinRank = 1 },
 
 		}
