@@ -792,7 +792,8 @@ GangsInfo = {
 			YinYang = { MinRank = 1 },
 			Raio = { MinRank = 1 },
 			Kokusen = { MinRank = 1 },
-			Susanoo = { MinRank = 1 }
+			Susanoo = { MinRank = 1 },
+			CorteDoSol = { MinRank = 1 },
 		}
 	};
 	
