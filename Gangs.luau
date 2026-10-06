@@ -296,7 +296,7 @@ GangsInfo = {
 
 	["Luas Inferiores"] = {
 		GangName = "Luas Inferiores",
-		GroupID = 36076667,
+		GroupID = 1002180539,
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
@@ -611,7 +611,7 @@ GangsInfo = {
 
 	Luas = {
 		GangName = "Luas Superiores",
-		GroupID = 35489912,
+		GroupID = 36076667,
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
