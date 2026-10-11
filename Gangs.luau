@@ -72,6 +72,7 @@ GangsInfo = {
 	FamiliaLorde = {
 		GangName = "Família Lorde god king",
 		GroupID = 958285938,
+        CustomRace = {"Anjo"},
 		MinRank = 2,
 		Health = 2000,
 		Colors = {
