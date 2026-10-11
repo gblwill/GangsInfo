@@ -44,6 +44,21 @@ GangsInfo = {
 		}
 	};
 
+	OverLords = {
+		GangName = "Overlord's",
+		GroupID = 36082827,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(44, 0, 0) },
+		},
+		GangItens = {
+			Chute = { MinRank = 1 },
+		}
+	};
+
 	SingularityOrder = {
 		GangName = "Singularity Order",
 		GroupID = 33345163,
