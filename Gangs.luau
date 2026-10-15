@@ -546,15 +546,15 @@ GangsInfo = {
 		}
 	};
 	
-	["Touros Negros "] = {
-		GangName = "Touros Negros ",
+	["Slayers"] = {
+		GangName = "Slayers",
 		GroupID = 35827043,
 		MinRank = 1,
-		Health = 1000,
+		Health = 3000,
 		Colors = {
-			[1] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(204, 204, 0) },
-			[2] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(204, 204, 0) },
-			[3] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(204, 204, 0) },
+			[1] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(22, 66, 171) },
+			[3] = { TextColor = Color3.fromRGB(0, 0, 0), TextStrokeColor = Color3.fromRGB(22, 66, 171) },
 		},
 		GangItens = {
 			SusanooEspada = { MinRank = 1 },
