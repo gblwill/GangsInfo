@@ -559,7 +559,6 @@ GangsInfo = {
 		GangItens = {
 			SusanooEspada = { MinRank = 1 },
 			Raio = { MinRank = 1 },
-			Kokusen = { MinRank = 1 },
 			MundoTransparente = { MinRank = 1 },
 			RaioFP = { MinRank = 1 },
 			["Corte Circular"] = { MinRank = 1 },
@@ -567,7 +566,7 @@ GangsInfo = {
 			FAHH = { MinRank = 1 },
 			CorteDoSol = { MinRank = 1 },
 			HinokaniKagura = { MinRank = 1 },
-			Susanoo = { MinRank = 1 },
+			ExplosionFlash = { MinRank = 1 },
             BullThrow = { MinRank = 1 },
 		}
 	};
