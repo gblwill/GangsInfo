@@ -126,7 +126,6 @@ GangsInfo = {
 			Eden = { MinRank = 1 },
 			HeavenRage = { MinRank = 1 },
 			EvilEyes = { MinRank = 1 },
-
 		}
 	};
 	
@@ -711,6 +710,8 @@ GangsInfo = {
 			Susanoo = { MinRank = 1 },
 			Raio = { MinRank = 1 },
 			Kokusen = { MinRank = 1 },
+			Rinnegan = { MinRank = 1 },
+			CorteDiabolico = { MinRank = 1 },
 		}
 	};
 
