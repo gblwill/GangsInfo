@@ -123,7 +123,9 @@ GangsInfo = {
 			Counter = { MinRank = 1 },
 			["Corte Circular"] = { MinRank = 1 },
 			StarStruck = { MinRank = 1 },
-			["Ēḏen"] = { MinRank = 1 },
+			Eden = { MinRank = 1 },
+			HeavenRage = { MinRank = 1 },
+			EvilEyes = { MinRank = 1 },
 
 		}
 	};
