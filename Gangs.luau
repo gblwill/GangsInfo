@@ -721,9 +721,9 @@ GangsInfo = {
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
-			[1] = { TextColor = Color3.new(0.34902, 0.007843, 0.007843), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
-			[2] = { TextColor = Color3.new(0.34902, 0.007843, 0.007843), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
-			[3] = { TextColor = Color3.new(0.34902, 0.007843, 0.007843), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
 		},
 		GangItens = {
 			SusanooEspada = { MinRank = 1 },
