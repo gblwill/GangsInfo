@@ -549,7 +549,7 @@ GangsInfo = {
 	
 	["Slayers"] = {
 		GangName = "Slayers",
-		GroupID = 35827043,
+		GroupID = 390680395,
 		MinRank = 1,
 		Health = 3000,
 		Colors = {
@@ -728,6 +728,7 @@ GangsInfo = {
 		GangItens = {
 			SusanooEspada = { MinRank = 1 },
 			Chute = { MinRank = 1 },
+			Raio = { MinRank = 1},
 		}
 	};
 
