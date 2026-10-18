@@ -715,6 +715,22 @@ GangsInfo = {
 		}
 	};
 
+		NoTrack = {
+		GangName = "NoTrack",
+		GroupID = 527028243,
+		MinRank = 1,
+		Health = 1000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0.34902, 0.007843, 0.007843), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0.34902, 0.007843, 0.007843), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[3] = { TextColor = Color3.new(0.34902, 0.007843, 0.007843), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+		},
+		GangItens = {
+			SusanooEspada = { MinRank = 1 },
+			Chute = { MinRank = 1 },
+		}
+	};
+
 	Worlds = {
 		GangName = "World's governament",
 		GroupID = 11350144,
