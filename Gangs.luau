@@ -14,7 +14,7 @@ GangsInfo = {
 		GangItens = {
 			RedRinnegan = { MinRank = 10 },
 			DemonBash = { MinRank = 10 },
-			PisaoBirgulas = { MinRank = 10 },
+			Pisao = { MinRank = 10 },
 			ImpulsoSombrio = { MinRank = 10 },
 			CorteDoSol = { MinRank = 10 },
 			Raio_FP = { MinRank = 10 },
@@ -23,6 +23,9 @@ GangsInfo = {
 			CrimsonSusanoo = { MinRank = 10 },
 			SlayerMark = { MinRank = 10 },
 			FP_Colateral = { MinRank = 255 },
+			Kokusen = { MinRank = 10 },
+			Raio = { MinRank = 10 },
+			["Corte Circular"] = { MinRank = 10 },
 			
 		}
 	};
@@ -117,6 +120,8 @@ GangsInfo = {
 		GangItens = {
 			ChuvaDeMeteoros = { MinRank = 1 },
 			ImpulsoSombrio = { MinRank = 1 },
+			Kokusen = { MinRank = 1 },
+			Raio = { MinRank = 1 },
 			Rinnegan = { MinRank = 1 },
 			YingColateral = { MinRank = 1 },
 			CorteDaEspada = { MinRank = 1 },
