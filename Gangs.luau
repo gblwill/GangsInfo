@@ -144,8 +144,8 @@ GangsInfo = {
 		}
 	};
 
-	NoCrak = {
-		GangName = "NoCrak",
+	Amendobobos = {
+		GangName = "Amendobobos",
 		GroupID = 35974806,
 		MinRank = 1,
 		Health = 1000,
