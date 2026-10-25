@@ -131,6 +131,7 @@ GangsInfo = {
 			Eden = { MinRank = 1 },
 			HeavenRage = { MinRank = 1 },
 			EvilEyes = { MinRank = 1 },
+			Portal = { MinRank = 1 },
 		}
 	};
 	
