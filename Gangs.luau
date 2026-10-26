@@ -150,6 +150,21 @@ GangsInfo = {
 		}
 	};
 
+	["Onigashima"] = {
+        GangName = "Onigashima",
+        GroupID = 35827043,
+        MinRank = 1,
+        Health = 1000,
+        Colors = {
+            [1] = { TextColor = Color3.fromRGB(255, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+            [2] = { TextColor = Color3.fromRGB(255, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+            [3] = { TextColor = Color3.fromRGB(255, 0, 0), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+        },
+        GangItens = {
+            Soco = { MinRank = 1 },
+        }
+    };
+
 	Amendobobos = {
 		GangName = "Amendobobos",
 		GroupID = 35974806,
