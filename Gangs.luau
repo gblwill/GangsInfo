@@ -12,7 +12,11 @@ GangsInfo = {
 			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
 		},
 		GangItens = {
-			RedRinnegan = { MinRank = 10 },
+			Rinnegan = { 
+				MinRank = 10, 
+				Size = 75,
+				Color = {255,0,0},
+			},
 			DemonBash = { MinRank = 10 },
 			Pisao = { MinRank = 10 },
 			ImpulsoSombrio = { MinRank = 10 },
