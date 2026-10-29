@@ -13,8 +13,7 @@ GangsInfo = {
 		},
 		GangItens = {
 			Rinnegan = { 
-				MinRank = 10, 
-				Size = 75,
+				MinRank = 10,
 				Color = {255,0,0},
 			},
 			DemonBash = { MinRank = 10 },
