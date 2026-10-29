@@ -13,7 +13,8 @@ GangsInfo = {
 		},
 		GangItens = {
 			Rinnegan = { 
-				MinRank = 10,
+				MinRank = 10, 
+				Size = 75,
 				Color = {255,0,0},
 			},
 			DemonBash = { MinRank = 10 },
@@ -22,14 +23,15 @@ GangsInfo = {
 			CorteDoSol = { MinRank = 10 },
 			Raio_FP = { MinRank = 10 },
 			Kirin = { MinRank = 10},
-			Counter = { MinRank = 10 },
-			CrimsonSusanoo = { MinRank = 10 },
+			['Susanoo Sword'] = { 
+				MinRank = 10, 
+				Color = {0,0,255},
+				Debounce = 2.5,
+				Knockback = 85,
+			},
 			SlayerMark = { MinRank = 10 },
 			FP_Colateral = { MinRank = 255 },
-			Kokusen = { MinRank = 10 },
-			Raio = { MinRank = 10 },
 			["Corte Circular"] = { MinRank = 10 },
-			
 		}
 	};
 	
