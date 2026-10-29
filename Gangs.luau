@@ -14,7 +14,7 @@ GangsInfo = {
 		GangItens = {
 			Rinnegan = { 
 				MinRank = 10, 
-				Size = 75,
+				Size = 50,
 				Color = {255,0,0},
 			},
 			DemonBash = { MinRank = 10 },
@@ -27,7 +27,7 @@ GangsInfo = {
 				MinRank = 10, 
 				Color = {0,0,255},
 				Debounce = 2.5,
-				Knockback = 85,
+				Knockback = 75,
 			},
 			SlayerMark = { MinRank = 10 },
 			FP_Colateral = { MinRank = 255 },
@@ -88,7 +88,11 @@ GangsInfo = {
 			Counter = { MinRank = 5},
 			BloodIce = { MinRank = 5},
 			BlackHole = { MinRank = 242},
-			Susanoo = { MinRank = 5},
+			Susanoo = {
+				MinRank = 5,
+				Color = {255, 102, 204},
+				Knockback = 72,
+		     },
 		}
 	};
 	
@@ -127,7 +131,10 @@ GangsInfo = {
 			ImpulsoSombrio = { MinRank = 1 },
 			Kokusen = { MinRank = 1 },
 			Raio = { MinRank = 1 },
-			Rinnegan = { MinRank = 1 },
+			Rinnegan = { 
+				MinRank = 1,
+				Color = {107, 50, 124},
+			 },
 			YingColateral = { MinRank = 1 },
 			CorteDaEspada = { MinRank = 1 },
 			Counter = { MinRank = 1 },
@@ -567,8 +574,15 @@ GangsInfo = {
 			[3] = { TextColor = Color3.fromRGB(0,0,0), TextStrokeColor = Color3.fromRGB(79, 79, 79) },
 		},
 		GangItens = {
-			Susanoo = { MinRank = 1 },
-			Rinnegan = { MinRank = 1 },
+			Susanoo = { 
+				MinRank = 1,
+				Knockback = 64,
+				Color = {0, 0, 0},
+			 },
+			Rinnegan = { 
+				MinRank = 1,
+				Color = {0, 0, 0},
+			 },
 			Kokusen = { MinRank = 1 },
 		}
 	};
