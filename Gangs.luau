@@ -13,9 +13,11 @@ GangsInfo = {
 		},
 		GangItens = {
 			Rinnegan = { 
-				MinRank = 10, 
-				Size = 50,
-				Color = {255,0,0},
+				MinRank = 5,
+				Size = 10,
+				Debounce = 1.5,
+				Knockback = 130,
+				Voice = 74654443353294,
 			},
 			DemonBash = { MinRank = 10 },
 			Pisao = { MinRank = 10 },
@@ -80,7 +82,12 @@ GangsInfo = {
 		},
 		GangItens = {
 			CorteDoSol = { MinRank = 5},
-			ShinraTensei = { MinRank = 5},
+			Rinnegan = { 
+				MinRank = 5,
+				Size = 10,
+				Knockback = 130,
+				Voice = 74654443353294,
+			},
 			ImpulsoSombrio = { MinRank = 5},
 			YingColateral = { MinRank = 5},
 			["Corte Circular"] = { MinRank = 5},
@@ -752,23 +759,6 @@ GangsInfo = {
 			Kokusen = { MinRank = 1 },
 			Rinnegan = { MinRank = 1 },
 			CorteDiabolico = { MinRank = 1 },
-		}
-	};
-
-		NoTrack = {
-		GangName = "NoTrack",
-		GroupID = 527028243,
-		MinRank = 1,
-		Health = 1000,
-		Colors = {
-			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
-			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
-			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(85, 0, 0) },
-		},
-		GangItens = {
-			SusanooEspada = { MinRank = 1 },
-			Chute = { MinRank = 1 },
-			Raio = { MinRank = 1},
 		}
 	};
 
