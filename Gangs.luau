@@ -695,7 +695,7 @@ GangsInfo = {
 
 	Onyx = {
 		GangName = "Heiwa 2º Generation",
-        CustomRace = {"Carecas"},
+        CustomRace = {"Carecas", "Mahoraga"},
 		GroupID = 677981660,
 		MinRank = 1,
 		Health = 1000,
