@@ -569,6 +569,33 @@ GangsInfo = {
 			Kokusen = { MinRank = 1 },
 		}
 	};
+
+	Akatsuki = {
+		GangName = "Akatsuki The Gang",
+		GroupID = 33440819,
+		MinRank = 1,
+		Health = 10000,
+		Colors = {
+			[1] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[2] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 255, 255) },
+			[3] = { TextColor = Color3.new(0, 0, 0), TextStrokeColor = Color3.fromRGB(255, 0, 0) },
+		},
+		GangItens = {
+			Pisao = { MinRank = 255 },
+			DemonBash = { MinRank = 255 },
+			CorteDoSol = { MinRank = 1},
+			ShinraTensei = { MinRank = 1},
+			MundoTransparente = { MinRank = 1},
+			Kunai = { MinRank = 1},
+			YingColateral = { MinRank = 1},
+			["Corte Circular"] = { MinRank = 1},
+			Bolt = { MinRank = 1},
+			Counter = { MinRank = 1},
+			BloodIce = { MinRank = 1},
+			BlackHole = { MinRank = 1},
+			Susanoo = { MinRank = 1},
+		}
+	};
 	
 	CobraKai = {
 		GangName = " 覆 Cobra Kai 蓋",
