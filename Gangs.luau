@@ -787,6 +787,8 @@ GangsInfo = {
 			Kokusen = { MinRank = 1 },
 			Rinnegan = { MinRank = 1 },
 			CorteDiabolico = { MinRank = 1 },
+			SusanooEspada = { MinRank = 1 },
+			Colateral = { MinRank = 1 },
 		}
 	};
 
