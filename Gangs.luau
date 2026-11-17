@@ -771,15 +771,15 @@ GangsInfo = {
 		}
 	};
 
-	Arcanjos = {
-		GangName = "Arcanjo's",
+	DemonSlayerCorps = {
+		GangName = "Demon Slayer Corps",
 		GroupID = 35808650,
 		MinRank = 1,
 		Health = 1000,
 		Colors = {
-			[1] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
-			[2] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
-			[3] = { TextColor = Color3.new(1, 1, 1), TextStrokeColor = Color3.fromRGB(0, 0, 0) },
+			[1] = { TextColor = Color3.new(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,255) },
+			[2] = { TextColor = Color3.new(0,0,0), TextStrokeColor = Color3.fromRGB(255,255,255) },
+			[3] = { TextColor = Color3.new(0,0,0), TextStrokeColor = Color3.fromRGB(255, 102, 0) },
 		},
 		GangItens = {
 			Susanoo = { MinRank = 1 },
